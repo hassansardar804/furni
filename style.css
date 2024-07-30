@@ -1,0 +1,237 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: #e2dfdf;
+}
+body {
+    overflow-x: hidden;
+    
+}
+
+/* header section */
+.background {
+    background-color: #3b5d50;
+}
+
+.header-heading {
+    margin-top: 100px;
+    font-family: Inter, sans-serif;
+    font-style: normal;
+}
+
+.menu {
+    border-bottom: 7px solid transparent;
+}
+
+.menu:hover {
+    border-bottom: 7px solid #f9bf29;
+}
+.menu-1{
+    border-bottom: 7px solid #f9bf29 ;
+}
+
+.icons {
+    cursor: pointer;
+}
+
+.yellow {
+    background-color: #f9bf29;
+    border-color: #f9bf29;
+}
+
+.yellow:hover {
+    background-color: #f0b318 !important;
+
+}
+
+.white {
+    border: 2px solid rgb(119, 119, 119);
+    background-color: #ffffff00;
+}
+
+.white:hover {
+    border: 2px solid white;
+}
+
+/* header img  */
+.header-img {
+    width: 675px;
+}
+
+/* explore */
+
+.explore {
+    padding-left: 20px;
+    padding-right: 20px;
+
+    background-color: rgb(0, 0, 0);
+    color: white;
+    font-weight: 600;
+
+
+}
+
+/* products */
+.products>img {
+    width: 300px;
+
+}
+
+/* why */
+
+.why>img {
+    height: 555px;
+    width: 444px;
+    border-radius: 22px;
+}
+
+/* about */
+.about-img {
+    position: relative;
+}
+
+.about-img :first-child {
+    height: 500px;
+    width: 400px;
+    position: absolute;
+
+
+
+
+}
+
+
+.about-img :nth-child(2) {
+    height: 190px;
+    width: 190px;
+    position: absolute;
+    right: -70px;
+
+}
+
+.about-img :nth-child(3) {
+    width: 33l0px;
+    height: 400px;
+    position: absolute;
+    right: -75px;
+    top: 210px;
+
+}
+
+.about-ul {
+    list-style: circle;
+
+}
+
+.product-categories {
+    margin-top: 200px;
+}
+
+.preo-ca-img {
+    background-color: rgb(194, 191, 191);
+
+
+
+}
+
+/* read */
+.read {
+    font-size: small;
+}
+
+/* testimonial */
+.person {
+    width: 100px;
+    height: 100px;
+    margin-left: 300px;
+
+}
+
+/* blog */
+.blog {
+    margin-bottom: 100px;
+}
+
+/* footer  */
+.footer {
+    background-color: white;
+}
+
+.footer-sofa>img {
+
+    margin-bottom: 55px;
+
+}
+
+/* send */
+.send {
+    height: 34px;
+
+    ;
+}
+
+.plane {
+    color: white;
+    background-color: #3b5d50;
+    height: 40px;
+    width: 50px;
+    border: #3b5d50;
+
+
+}
+
+/* main footer */
+.main-footer {
+    background-color: white;
+}
+
+.Footer {
+    background-color: white;
+    margin-top: 150px;
+    position: relative;
+}
+
+.newsleatter {
+    margin-top: 120px;
+}
+
+.newslatter-btn {
+    background-color: #3B5D50;
+    padding: 8px 30px;
+}
+
+.newslatter-btn:hover {
+    background-color: #3f705e;
+
+}
+
+.email-input {
+    padding: 10px 20px;
+}
+
+.footer-img>img {
+    height: 320px;
+    position: absolute;
+    right: 100px;
+
+    top: -100px;
+}
+
+/* footer-icon   */
+.footer-icon {
+    color: white;
+    font-size: 23px;
+    border: 1px solid black;
+    padding: 10px;
+    background-color: #3f705e;
+
+}
+
+.footer-icon:hover {
+    background-color: white;
+    color: #3f705e;
+}
+
+.footer-nav {
+    cursor: pointer;
+}
